@@ -8,7 +8,7 @@ from phi.utils.log import logger
 
 from assistants import get_invstment_research_assistant  # type: ignore
 
-os.environ['GROQ_API_KEY'] = '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'
+
 
 nest_asyncio.apply()
 st.set_page_config(
